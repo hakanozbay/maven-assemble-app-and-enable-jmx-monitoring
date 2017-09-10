@@ -107,5 +107,5 @@ Using the [Appassembler][] plugin simplifies application execution setup and env
 
 [Maven]: https://maven.apache.org/
 [Appassembler]: http://www.mojohaus.org/appassembler/appassembler-maven-plugin/ 
-[Spirng Boot]: https://projects.spring.io/spring-boot/
+[Spring Boot]: https://projects.spring.io/spring-boot/
 [JVisualVM]: https://visualvm.github.io/
